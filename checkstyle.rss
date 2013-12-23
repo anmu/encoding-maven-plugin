@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2013</copyright>
     <item>
-      <title>File: 11,
-             Errors: 1882,
+      <title>File: 12,
+             Errors: 1609,
              Warnings: 0,
              Infos: 0
       </title>
@@ -55,7 +55,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  309
+                  292
                 </td>
               </tr>
                           <tr>
@@ -83,7 +83,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  50
+                  72
                 </td>
               </tr>
                           <tr>
@@ -97,7 +97,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  62
+                  100
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.saxsys.de/checkstyle.html#de.saxsys.maven.plugins.encoding.package-info.java">de/saxsys/maven/plugins/encoding/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
               </tr>
                           <tr>
@@ -139,7 +153,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  499
+                  264
                 </td>
               </tr>
                           <tr>
@@ -153,7 +167,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  167
+                  84
                 </td>
               </tr>
                           <tr>
