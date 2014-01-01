@@ -18,6 +18,21 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<github.global.server>github</github.global.server>
 	</properties>
+	
+	<repositories>
+		<repository>
+			<id>encoding-mvn-repo</id>
+			<name>github</name>
+			<url>http://raw.github.com/anmu/encoding-maven-plugin/gh-pages/resources</url>
+		</repository>
+	</repositories>
+	<pluginRepositories>
+		<pluginRepository>
+			<id>encoding-mvn-repo</id>
+			<name>github</name>
+			<url>http://raw.github.com/anmu/encoding-maven-plugin/gh-pages/resources</url>
+		</pluginRepository>
+	</pluginRepositories>
 
 	<scm>
 		<connection>scm:git:https://github.com/anmu/${project.artifactId}.git</connection>
@@ -151,11 +166,6 @@
 					<configuration>
 						<createChecksum>true</createChecksum>
 					</configuration>
-				</plugin>
-				<plugin>
-					<groupId>org.apache.maven.plugins</groupId>
-					<artifactId>maven-install-plugin</artifactId>
-					<version>2.5.1</version>
 				</plugin>
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
