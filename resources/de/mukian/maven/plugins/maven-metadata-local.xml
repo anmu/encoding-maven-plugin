@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Encoding Maven Plugin</name>
+      <prefix>encoding</prefix>
+      <artifactId>encoding-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
